@@ -11,4 +11,4 @@ Project Dissertation submitted to Swansea University in Partial Fulfilment for t
 * Keras 
 * Jupyter
 
-Note: The dataset available at [DeepGlobe Road Extraction Challenge](http://deepglobe.org/challenge.html).
+Note: The dataset available at [DeepGlobe Road Extraction](http://deepglobe.org/challenge.html).
