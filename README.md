@@ -2,7 +2,8 @@
 ##### Njuod Alsudays 
 ##### Supervised by: Dr. Joss Whittle
 Submitted on December 15, 2018
-Project Dissertation submitted to Swansea University in Partial Fulfilment for the Degree of Master of Science
+
+Project Dissertation submitted to Swansea University in Partial Fulfilment for the Degree of Master of Science.
 
 ---
 
